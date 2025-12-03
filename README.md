@@ -8,7 +8,7 @@
 SkyCast moves beyond simple data display. It features an atmospheric UI that adapts its color palette and background animations based on the current weather conditions (Sunny, Rainy, Snowy, Night).
 
 ![SkyCast Screenshot](./screenshot.png)
-*(Add a screenshot of your app here named screenshot.png)*
+
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ SkyCast moves beyond simple data display. It features an atmospheric UI that ada
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/skycast-weather.git
+    git clone https://github.com/rathodyajvin-byte/skycast-weather.git
     cd skycast-weather
     ```
 
